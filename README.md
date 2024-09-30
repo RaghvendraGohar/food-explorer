@@ -48,3 +48,45 @@ export default tseslint.config({
   },
 })
 ```
+
+Food Explorer
+
+Food Explorer is a web application that allows users to explore different food categories and view meals associated with each category. The application uses the TheMealDB API to fetch food categories and meals.
+
+Features
+
+Browse food categories.
+View meals in each category.
+Responsive design for different screen sizes.
+
+Built With
+
+React
+TypeScript
+Tailwind CSS
+TheMealDB API
+
+
+Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+Prerequisites
+
+You need to have the following installed on your machine:
+
+Node.js: Download and install from Node.js official website https://nodejs.org/en.
+npm or yarn: npm is included with Node.js. You can install yarn by following instructions from here.
+
+Installation
+Clone the repository: git clone https://github.com/your-username/food-explorer.git
+
+Navigate to the project folder: cd food-explorer
+
+Install dependencies: npm install
+
+Running the Application
+To run the application in development mode: npm run dev
+
+
+
